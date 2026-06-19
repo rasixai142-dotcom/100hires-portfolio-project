@@ -3,30 +3,59 @@
 ## Tools Installed
 
 - Cursor IDE
+
 - Claude Code Extension
+
 - Codex Extension
+
 - GitHub
+
+- Git
 
 ## Steps Completed
 
 1. Installed Cursor IDE
+
 2. Installed Claude Code Extension
+
 3. Installed Codex Extension
+
 4. Created a public GitHub repository
-5. Opened the repository in Cursor
-6. Created and updated this README file
+
+5. Cloned the repository locally
+
+6. Opened the repository in Cursor
+
+7. Updated the README file
+
+8. Connected Git and GitHub
 
 ## Issues Encountered
 
-### Issue
-Learning how to set up the repository and documentation.
+### Issue 1
+
+Git was not recognized in PowerShell.
 
 ### Solution
-Used GitHub documentation and online tutorials to complete the setup.
+
+Installed Git and verified the installation using `git --version`.
+
+### Issue 2
+
+Repository was not appearing correctly in Cursor.
+
+### Solution
+
+Cloned the repository locally and opened the correct folder in Cursor.
 
 ## What I Learned
 
 - How to use Cursor IDE
+
 - How to install AI coding extensions
-- How to create a GitHub repository
-- Basic documentation practices
+
+- How Git and GitHub work together
+
+- How to clone repositories
+
+- How to edit and track files using Git

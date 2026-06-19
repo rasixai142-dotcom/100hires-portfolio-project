@@ -1,0 +1,267 @@
+# Transcript: frank-kern
+
+Now there's a new AI funnel builder that
+absolutely destroys every other AI
+funnel builder or webpage builder. And
+this one is going to be the most
+insanely underpriced tool that you're
+going to see in the AI world. So if you
+want good-looking funnels with good copy
+that actually work so you don't have to
+be like a tech genius, this video is for
+you. The funnel building tool I'm
+talking about is one provided by Go
+HighLevel. But the thing about HighLevel
+is most people always make videos about
+how you can resell HighLevel to local
+businesses and start an agency. But you
+never hear people talking about how cool
+the freaking software is, which is
+really the strongest part about
+HighLevel is it actually works. So
+they've got this AI funnel thing that
+just came out and I'll show you how to
+build a killer funnel with it. So go
+take a free trial at gohighlevel.com and
+you want to go to settings here and you
+want to make sure come over here to labs
+cuz no one's got this yet. This isn't
+released. And scroll down and do brand
+new funnel AI and website AI thingy and
+turn that on. It's going to be like
+this. It'll be off. You want to turn it
+on. The real cool thing about this is
+that it builds funnels that A, actually
+work, B, have pretty freaking good copy
+on them, and C, already have like stuff
+like calendars and things like that
+built in. So it's really great. I'll
+click on build with AI here and we're
+going to start and we're going to build
+us one of them funnels. We're going to
+build a book a call funnel. So I'm going
+to call the funnel page this is going to
+be old man typing on camera academy.
+Just add that air of professionalism
+that you've come to expect from this
+channel. All right, business niche we'll
+select coaching and consulting of
+course. Goal of the funnel page is to
+book appointments and target audience
+will be small businesses. All right, and
+what are we offering? We're offering one
+of them free consultations. Okay. Now we
+can customize this but let's see what
+happens when we click generate. I was
+expecting it to be absolutely freaking
+terrible because most of them are. The
+copy is just the dumbest thing you've
+ever seen in your life. This is the
+opposite. This is made for real people.
+And what's exceptionally cool about this
+is if you want to change something, you
+can just change it like you were working
+with a Google Doc or whatever. So this
+is what it made. This is like unedited,
+all's cool, and if we want to change
+anything, we can just change it. So
+instead of turn awkward on camera
+moments, let's just say turn accidental
+nudity into clients who actually book.
+Now obviously you wouldn't say that but
+I'm trying to make this less boring for
+you. That's how easy it is to change
+stuff. Okay. So this is, you know, this
+is old man typing on camera academy, all
+right? So if we're targeting older
+dudes, then we're going to need the
+larger font sizes for this. So let's go
+ahead and tell it I need all of the body
+copy and even the copy in the hero
+section, like basically everything other
+than the headlines and the subheads and
+all of that stuff to be 20 pixel font
+size, please. All right, so
+if we were using a regular funnel
+builder, and you know, not AI. First of
+all, if we were using AI, I'd have to
+rebuild the whole damn thing. But if we
+were just using anything else, we'd have
+to go to every single one of these
+little thingies and change the font
+size, which would take forever. Don't
+have to do that with HighLevel, which is
+really cool because doing that is a pain
+in the butt. And it did it. This is
+looking solid. Look, so now we can
+actually read it. And you know, if we
+ever work in HighLevel and you just want
+to see what the thing looks like outside
+of the funnel builder, of course we
+don't have a form or anything here yet.
+This is the only thing you know, we kind
+of need to fix and I don't want to put a
+form here. So instead of having to spend
+forever with AI and stuff like telling
+it to redo it, we can literally just
+come over here and we can change this
+thing to a larger font. I what we really
+need to make this thing functional is
+a damn calendar, you know? So if we look
+over here, we've got a place where we
+can put a calendar. Now the one thing
+about this is cuz this is the I've
+already tried to make this video once. I
+forgot how the dang screen cam on is uh
+I couldn't get it to make a calendar for
+me yet. This is 42 days out from being
+released to the public. So I just went
+and made a camera or rather a calendar.
+So instead of saying, "Hey AI, make me a
+calendar." I'm just going to pop the one
+that I made in here. So HighLevel has
+like unbelievable amounts of features.
+It's almost obnoxious. And here's the
+calendar that I made. So it should
+populate here in a minute, hopefully.
+You know, cuz I'm on camera and stuff.
+There we go. And so now we've got my
+calendar, right? So now we're looking
+good here. So that's pretty sweet. All
+right, so we still want this to be legit
+though. We want it to be so legit in
+fact it can't it can't quit. It would be
+incapable of quitting. That's how legit
+we want it to be. So we need a
+thank you page, man. Just All right, so
+I'll hit back and now I'm going to go
+into this little funnel thingy that we
+were making right here, old man typing
+on camera academy. I'm going to say add
+new step. All right, I'll call this one
+thanks for booking. Path can be
+whatever. That doesn't matter. And
+[music] I'll click on create funnel
+step. And now it's going to give me the
+option to build a new funnel page and
+I'm just going to use AI to build it.
+Thank you for booking. All right,
+business niche is coaching and stuff.
+Goal of this funnel is going to be
+other, okay? And I'll say confirm the
+user's appointment and thank them for
+booking and urge them to add it to their
+calendar. So I'll just generate. What's
+cool is the quality of the dang copy
+without us telling it anything. To me
+that's a big deal. You would normally
+have to, you know, really elaborate on
+what the business does but it kind of
+nailed it for this one. Cool. So it's
+made this for us. Now we got us almost a
+totally functioning
+book a call funnel. Only thing we got to
+do is come back to our original page,
+which I probably just broke. Nope, I
+didn't. Amazing. All right. And come
+over here.
+Go to our calendar that we popped in
+there and then make it redirect people.
+Click on this and then look. Go here and
+say go to next step.
+So now when they submit their
+appointment, they book their
+appointment, they're taken automatically
+to that thank you page and they see all
+that stuff,
+which is pretty pretty pretty good. And
+hell, man, since you're here, I'll do a
+deeper dive on this later. But HighLevel
+has like gone completely
+ham with AI stuff and they've also made
+it where we can like just use AI to do
+the reminder sequence. So let me show
+you how to do that since you're already
+watching, you know, might as well help
+you out a little bit mo. So check this
+out. We can set up with AI we can make
+it send the reminder sequence cuz
+remember that thank you page was like,
+"Look and you're you know, you're going
+to get a reminder by email." And you
+might be going like, "Dude, what? Hey."
+So watch this. I need to create a
+workflow that is a reminder sequence for
+people who book an appointment through
+the old man Kern calendar. And we need
+to like send them a reminder one day
+before the appointment and then four
+hours before the appointment and then
+one hour before the appointment by
+email. And if we can, let's put their
+appointment times and details and stuff
+like that in all the emails.
+All righty. So that's going to work.
+There we go. Okay. Oh dude, I got to
+just talk to it. Um I'm using
+WhisperFlow. I think I probably told you
+that already. I just like repeating
+myself. It's super fun. Okay, so it's
+going to build this email stuff for me.
+And that is absolutely ridiculous. Okay,
+so let's see. This is the name of the
+workflow, right cha? All right, and it's
+like, "Hey, you better recognize
+something funky's going on here." All
+right, so where's my Why are you giving
+me that red warning?
+What's up with y'all?
+Oh, okay. I got to choose a calendar.
+All right, in calendar.
+Old man Kern. There we go. Okay, well
+that's easy. All right, wait one day
+before the appointment. Solid. Okay,
+looking good. Save that. All righty, and
+then how's this looking?
+Okay. And now, you know, you don't
+actually have to put anything in here if
+you set it up right. Okay, sweet. Your
+appointment's scheduled and look at
+that.
+This is all, you know, kind of serious
+writing style or whatever but you can
+change it if you want to. The cool thing
+is you don't have to freaking build this
+damn thing. You just told it to build it
+and it built it properly. So now it's
+going to actually do it, you know? Like
+that is absolutely bonkers. So now all I
+had to do is hit publish and save. So
+someone comes here
+and they take the booking one of them
+appointments over here, they're going to
+get the emails and everything, you know,
+and the reminders. And we've got a
+legitimate book a call funnel that's
+pretty freaking solid that
+was really easy to set up and despite my
+not really knowing what I'm doing. And
+I've got the email stuff handled, too,
+dude. I mean, this is ridiculous. So
+gohighlevel.com. You can take a trial
+for free. They're great. I think I told
+you this already. I can't remember. Very
+biased with them, by the way. They've
+been clients of mine for years. I've
+been a customer of theirs for even more
+years. So they're not paying me to put
+this video up. I'm not using an
+affiliate link but still consider my
+bias. All right. Cool. Anyway, thank you
+very much, HighLevel.
+real stoked for when this is like
+actually out of beta. You can use it
+now. You just got to remember to turn
+that little thing on. All right. Okay.
+Thanks for watching this, man. Y'all
+take it easy.
