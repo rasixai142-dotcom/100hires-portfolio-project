@@ -1,13 +1,13 @@
 # Research Sources — Webinar Funnel from Zero
 
 ## Topic
-How to build a webinar funnel from scratch — registration, show-up rate, 
+How to build a webinar funnel from scratch — registration, show-up rate,
 conversion, follow-up sequences, and post-webinar monetization for B2B SaaS.
 
 ## Why I Chose These Experts
-Each expert below is a verified practitioner — not just a writer or blogger. 
-They have built real webinar funnels, generated real revenue, and documented 
-their systems publicly. Priority was given to people who teach from results, 
+Each expert below is a verified practitioner — not just a writer or blogger.
+They have built real webinar funnels, generated real revenue, and documented
+their systems publicly. Priority was given to people who teach from results,
 not theory.
 
 ---
@@ -18,105 +18,94 @@ not theory.
 - **Platform:** YouTube, Podcast (Marketing Secrets)
 - **URL:** https://www.russellbrunson.com
 - **YouTube:** https://www.youtube.com/@russellbrunson
-- **Why:** Creator of the "Perfect Webinar Script" — the most referenced 
-  webinar framework in the world. Founder of ClickFunnels. His webinar 
-  structure (Big Domino, 3 Secrets, Stack Close) is used by thousands 
-  of B2B and B2C marketers globally.
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript, LinkedIn posts
+- **Why:** Creator of the "Perfect Webinar Script" — the most referenced webinar framework in the world. Founder of ClickFunnels.
 
 ### 2. Jason Fladlien
 - **Platform:** YouTube, Webinar Mastery Academy
 - **URL:** https://jasonfladlien.com
-- **Why:** Known as the #1 webinar conversion expert on the internet. 
-  Creator of "Webinar Mastery Academy" with Anik Singal. Has generated 
-  millions in revenue through webinars. Deep expertise in psychology, 
-  storytelling, and live webinar selling.
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript, LinkedIn post references
+- **Why:** Known as the #1 webinar conversion expert. Creator of "Webinar Mastery Academy". Generated millions in revenue through webinars.
 
-### 3. Steve Larsen
-- **Platform:** YouTube, Podcast (Sales Funnel Radio)
-- **URL:** https://stevejlarsen.com
-- **YouTube:** https://www.youtube.com/@stevelarsen
-- **Why:** Ex-ClickFunnels lead funnel builder under Russell Brunson. 
-  Host of Sales Funnel Radio (2M+ downloads). Built hundreds of webinar 
-  funnels. Known for indoctrination sequences and pre-webinar warm-up systems.
-
-### 4. Amy Porterfield
+### 3. Amy Porterfield
 - **Platform:** Podcast (Online Marketing Made Easy), YouTube
 - **URL:** https://amyporterfield.com
 - **YouTube:** https://www.youtube.com/@AmyPorterfield
-- **Why:** Creator of the "Webinar to Waitlist to Launch" funnel. One of 
-  the most documented online course launch practitioners. Teaches complete 
-  webinar funnel from registration page to post-webinar email follow-up.
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript, LinkedIn posts
+- **Why:** Creator of the "Webinar to Waitlist to Launch" funnel. Most documented online course launch practitioner.
 
-### 5. Stu McLaren
-- **Platform:** Podcast, YouTube
-- **URL:** https://stumclaren.com
-- **Why:** Creator of TRIBE program. Expert in membership site funnels 
-  built through webinars. Known for the "Waitlist Webinar Funnel" strategy 
-  — building an audience before the funnel even launches.
+### 4. Jeff Walker
+- **Platform:** Podcast (Launch with Jeff Walker), YouTube
+- **URL:** https://jeffwalker.com
+- **YouTube:** https://www.youtube.com/@JeffWalker
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript, LinkedIn posts
+- **Why:** Creator of "Product Launch Formula" since 2005. Students have done $1 billion+ in launches.
 
-### 6. Saurabh Bhatnagar
-- **Platform:** YouTube, FlexiFunnels
-- **URL:** https://sb.flexifunnels.com
-- **YouTube:** https://www.youtube.com/@SaurabhBhatnagar
-- **Why:** India's top funnel expert. Founder of FlexiFunnels — India's 
-  leading funnel builder platform. Created a 25+ hour Funnel Mastery program 
-  including dedicated webinar funnel modules. Highly relevant for Indian 
-  B2B SaaS context.
+### 5. Steve Larsen
+- **Platform:** YouTube, Podcast (Sales Funnel Radio)
+- **URL:** https://stevejlarsen.com
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript
+- **Why:** Ex-ClickFunnels lead funnel builder under Russell Brunson. Host of Sales Funnel Radio (2M+ downloads).
+
+### 6. Frank Kern
+- **Platform:** YouTube, frankkern.com
+- **URL:** https://frankkern.com
+- **YouTube:** https://www.youtube.com/@FrankKern
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript
+- **Why:** OG direct response marketer with 20+ years experience. Creator of "Ultimate Webinar Blueprint".
 
 ### 7. Todd Brown
 - **Platform:** Podcast (The Marketer's Mind), Blog
 - **URL:** https://toddbrown.me
-- **Why:** Founder of Marketing Funnel Automation (MFA). Creator of the 
-  E5 Funnel Architecting Framework. Has personally built and engineered 
-  370+ marketing funnels. Called "The Marketing Wizard other experts go 
-  to when they need help." Deep expertise in webinar funnel message, 
-  hook, and structure.
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript
+- **Why:** Founder of Marketing Funnel Automation (MFA). Creator of E5 Funnel Architecting Framework. Built 370+ marketing funnels.
 
-### 8. Jeff Walker
-- **Platform:** Podcast (Launch with Jeff Walker), YouTube
-- **URL:** https://jeffwalker.com
-- **YouTube:** https://www.youtube.com/@JeffWalker
-- **Why:** Creator of "Product Launch Formula" (PLF) since 2005. NYT 
-  Bestselling author of "Launch." His students have done $1 billion+ in 
-  launches. Pioneered the pre-launch video sequence that feeds directly 
-  into webinar funnels.
-
-### 9. Sam Ovens
+### 8. Sam Ovens
 - **Platform:** YouTube, Consulting.com
 - **URL:** https://consulting.com
-- **Why:** Built a $20M+ webinar funnel for Consulting Accelerator. 
-  One of the most studied webinar funnel case studies online. His funnel 
-  (FB Ads → Registration → Indoctrination Emails → 2.5hr Webinar → 
-  Time-limited Offer) is referenced by hundreds of marketers as a 
-  masterclass in webinar conversion.
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript
+- **Why:** Built a $20M+ webinar funnel for Consulting Accelerator. Most studied webinar funnel case study online.
 
-### 10. Frank Kern
-- **Platform:** YouTube, frankkern.com
-- **URL:** https://frankkern.com
-- **YouTube:** https://www.youtube.com/@FrankKern
-- **Why:** OG direct response marketer with 20+ years experience. 
-  Creator of "Ultimate Webinar Blueprint" — a 28-day webinar training 
-  program. Known for Intent Based Branding and Behavioral Dynamic 
-  Response. One of the most respected names in funnel psychology and 
-  webinar offer structure.
+### 9. Stu McLaren
+- **Platform:** Podcast, YouTube
+- **URL:** https://stumclaren.com
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript, LinkedIn posts
+- **Why:** Creator of TRIBE program. Expert in membership site funnels built through webinars.
+
+### 10. Saurabh Bhatnagar
+- **Platform:** YouTube, FlexiFunnels
+- **URL:** https://sb.flexifunnels.com
+- **YouTube:** https://www.youtube.com/@SaurabhBhatnagar
+- **Date Collected:** June 19, 2026
+- **Content Collected:** YouTube transcript, LinkedIn posts
+- **Why:** India's top funnel expert. Founder of FlexiFunnels. Created 25+ hour Funnel Mastery program including webinar modules.
 
 ---
 
 ## Content Collection Status
 
-| Expert | LinkedIn Posts | YouTube Transcripts | Other |
-|--------|---------------|---------------------|-------|
-| Russell Brunson | ⬜ Pending | ⬜ Pending | ⬜ Pending |
-| Jason Fladlien | ⬜ Pending | ⬜ Pending | ⬜ Pending |
-| Steve Larsen | ⬜ Pending | ⬜ Pending | ⬜ Pending |
-| Amy Porterfield | ⬜ Pending | ⬜ Pending | ⬜ Pending |
-| Stu McLaren | ⬜ Pending | ⬜ Pending | ⬜ Pending |
-| Saurabh Bhatnagar | ⬜ Pending | ⬜ Pending | ⬜ Pending |
-| Todd Brown | ⬜ Pending | ⬜ Pending | ⬜ Pending |
-| Jeff Walker | ⬜ Pending | ⬜ Pending | ⬜ Pending |
-| Sam Ovens | ⬜ Pending | ⬜ Pending | ⬜ Pending |
-| Frank Kern | ⬜ Pending | ⬜ Pending | ⬜ Pending |
+| Expert | LinkedIn Posts | YouTube Transcripts | Date |
+|--------|---------------|---------------------|------|
+| Russell Brunson | ✅ Done | ✅ Done | Jun 19, 2026 |
+| Jason Fladlien | ✅ Done | ✅ Done | Jun 19, 2026 |
+| Amy Porterfield | ✅ Done | ✅ Done | Jun 19, 2026 |
+| Jeff Walker | ✅ Done | ✅ Done | Jun 19, 2026 |
+| Steve Larsen | ⬜ Not found | ✅ Done | Jun 19, 2026 |
+| Frank Kern | ⬜ Not found | ✅ Done | Jun 19, 2026 |
+| Todd Brown | ⬜ Not found | ✅ Done | Jun 19, 2026 |
+| Sam Ovens | ⬜ Not found | ✅ Done | Jun 19, 2026 |
+| Stu McLaren | ✅ Done | ✅ Done | Jun 19, 2026 |
+| Saurabh Bhatnagar | ✅ Done | ✅ Done | Jun 19, 2026 |
 
 ---
 
-*Last updated: June 2026*
+*Last updated: June 19, 2026*
