@@ -1,61 +1,32 @@
-# 100Hires Portfolio Project
+# Webinar Funnel from Zero — Research Project
 
-## Tools Installed
+## Topic
+How to build a webinar funnel from scratch for B2B SaaS — covering registration, show-up rate, conversion, and follow-up.
 
-- Cursor IDE
+## What I Built
+This repository contains structured research on webinar funnels, collected from 10 verified practitioners using YouTube Transcript API (Python).
 
-- Claude Code Extension
+## Experts Researched
+1. Russell Brunson — Perfect Webinar Script creator
+2. Jason Fladlien — #1 webinar conversion expert
+3. Amy Porterfield — Webinar to Launch funnel specialist
+4. Jeff Walker — Product Launch Formula creator
+5. Steve Larsen — Ex-ClickFunnels funnel builder
+6. Frank Kern — Ultimate Webinar Blueprint creator
+7. Todd Brown — E5 Funnel Architecting Framework
+8. Sam Ovens — $20M webinar funnel case study
+9. Stu McLaren — Membership webinar funnel expert
+10. Saurabh Bhatnagar — India's top funnel expert (FlexiFunnels)
 
-- Codex Extension
+## Repository Structure
+/research/sources.md — Expert list with annotations
+/research/youtube-transcripts/ — 10 transcripts via API
+/research/linkedin-posts/ — Posts collected manually
+/research/other/ — Additional materials
 
-- GitHub
+## Tools Used
+- Python — youtube-transcript-api library
+- GitHub — version control with regular commits
 
-- Git
-
-## Steps Completed
-
-1. Installed Cursor IDE
-
-2. Installed Claude Code Extension
-
-3. Installed Codex Extension
-
-4. Created a public GitHub repository
-
-5. Cloned the repository locally
-
-6. Opened the repository in Cursor
-
-7. Updated the README file
-
-8. Connected Git and GitHub
-
-## Issues Encountered
-
-### Issue 1
-
-Git was not recognized in PowerShell.
-
-### Solution
-
-Installed Git and verified the installation using `git --version`.
-
-### Issue 2
-
-Repository was not appearing correctly in Cursor.
-
-### Solution
-
-Cloned the repository locally and opened the correct folder in Cursor.
-
-## What I Learned
-
-- How to use Cursor IDE
-
-- How to install AI coding extensions
-
-- How Git and GitHub work together
-
-- How to clone repositories
-
-- How to edit and track files using Git
+## Why This Topic
+Webinar funnels sit at the intersection of traffic, conversion, and retention — making them the most complete funnel to study for performance marketing.
